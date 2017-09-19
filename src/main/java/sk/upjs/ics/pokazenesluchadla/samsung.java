@@ -10,5 +10,7 @@ package sk.upjs.ics.pokazenesluchadla;
  * @author student
  */
 public class samsung {
-    
+    public static void main(String[] args) {
+        System.out.println("");
+    }
 }
